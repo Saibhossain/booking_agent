@@ -1,0 +1,9 @@
+fastapi 
+uvicorn 
+twilio 
+langchain 
+langgraph 
+google-generativeai 
+python-dotenv
+langchain-community
+langchain-core
